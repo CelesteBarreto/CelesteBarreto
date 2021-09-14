@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Olá, meu nome é Celeste Barreto. Tenho desenvolvido minhas habilidades em front-End, Ui Design.
+Olá, meu nome é Celeste Barreto. Tenho desenvolvido minhas habilidades em front-End com Flutter
